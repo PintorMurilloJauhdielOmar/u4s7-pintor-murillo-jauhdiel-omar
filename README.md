@@ -19,13 +19,7 @@ No se agregó ninguna función grande nueva: se pulió el CRUD y la autenticaci�
 - **Seguridad:** cada usuario solo ve y edita sus propios servicios (`propietario=request.user`).
 - **Despliegue en Render:** repositorio y Web Service propios (`u4s7-…`) con las 9 variables de entorno.
 
-### Hallazgos de la UI review
 
-Revisión por pares con la checklist de accesibilidad y responsividad.
-
-1. [Hallazgo 1 y cómo lo corregí]
-2. [Hallazgo 2 y cómo lo corregí]
-3. [Hallazgo 3 y cómo lo corregí]
 
 ### Estructura del proyecto
 
